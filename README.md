@@ -1,1 +1,1 @@
-![](img/sky.png)
+<img src="img/sky.png"/>
