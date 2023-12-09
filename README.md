@@ -1,3 +1,3 @@
 <p align="center">
-    <img src="img/sky.png"/>
+    <img src="img/wheel.png"/>
 </p>
