@@ -1,3 +1,3 @@
 <p align="center">
-    <img src="img/sky.webp"/>
+    <img src="img/synecdoche.webp"/>
 </p>
